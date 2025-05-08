@@ -52,7 +52,7 @@ Mudah digunakan, ringan dijalankan, dan fleksibel dikembangkan sesuai kebutuhan 
 🚀 Cara Menjalankan di Lokal:
 
 1. Clone repository:
-	git clone https://github.com/username/monitoring-dana-rt.git
+	git clone https://github.com/username/dandes.git
 
 2. Pindahkan ke direktori htdocs (jika pakai XAMPP).
 
