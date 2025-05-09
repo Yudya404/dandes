@@ -26,7 +26,7 @@ Mudah digunakan, ringan dijalankan, dan fleksibel dikembangkan sesuai kebutuhan 
 	- Laporan
 	- Informasi terbaru
 	
-	![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 💸 Monitoring Dana Masuk
 	- Input data pemasukan RT
